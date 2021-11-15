@@ -1,1 +1,2 @@
-# Social-Media-Network-Covid-s_negationist_-community_detection
+# Social-Media-Network-Covid_negationist_community_detection
+Progetto "Social Media Network and Media"
